@@ -22,7 +22,7 @@ ANDAN_CRYPTO/___ здесь вы найдете HTML-код, которым мы
 
 Для Вашего удобства все этапы анализа были подразделены на подпункты, а шаги -  прокомментированы.
 
-![meme](https://github.com/Lexus-2/ANDAN_CRYPTO/assets/133632662/e52b1a6e-ca18-4466-b853-214035314b04)
+![meme (1)](https://github.com/Lexus-2/ANDAN_CRYPTO/assets/133632662/4b53f00f-7306-43b3-beaa-3e9434df71f7)
 
 
 
