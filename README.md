@@ -1,6 +1,14 @@
 # ANDAN_CRYPTO
 
 
+<center>
+<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDBjNTczYzE0NTIxMjlmYjg1OGQwN2UxYzk4M2VlYzRlYTUzNjlkMyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/8qGPuB8AQW3AZuXVSb/giphy.gif' align='center' width="500x">
+</center>
+
+
+
+
+
 Наш проект представляет собой анализ стартапов в области криптовалют. 
 
 Мы постарались рассмотреть данные абсолютно с разных сторон, максимально их “прощупать” для того, чтобы получить корректные результаты и сделать правильные выводы. 
@@ -17,12 +25,5 @@ ANDAN_CRYPTO/Итоговый_проект.ipynb - в данном файле в
 
 
 Для Вашего удобства все этапы анализа были подразделены на подпункты, а шаги -  прокомментированы.
-
-<center>
-<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDBjNTczYzE0NTIxMjlmYjg1OGQwN2UxYzk4M2VlYzRlYTUzNjlkMyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/8qGPuB8AQW3AZuXVSb/giphy.gif' align='center' width="500x">
-</center>
-
-
-
 
 
